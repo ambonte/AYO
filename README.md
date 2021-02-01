@@ -1,6 +1,6 @@
 # AYO ATM services
 
-## By Bonte Emma BANA
+## By Bonte Emma BANA & Jean Calvin CYIMANA
 ## Description
 Ayo is an ATM service provider. 
 every use can deposit money, withdraw money, send money and check balance. Each user has a username and pin that is used to login in the account.
